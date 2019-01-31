@@ -1,5 +1,5 @@
 <!-- Heading 1 -->
-# My Red River Gorge page title
+# Welcome to the Red River Gorge!
 
 <!-- First paragraph -->
 Welcome to my page. I will discuss interesting topics that might make you happy. 😃
