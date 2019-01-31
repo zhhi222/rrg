@@ -1,5 +1,6 @@
 <!-- Heading 1 -->
 # Welcome to the Red River Gorge!
+<!-- Nice research! 😀 -->
 
 <!-- First paragraph -->
 Welcome to my page. I will discuss interesting topics that might make you happy. 😃
